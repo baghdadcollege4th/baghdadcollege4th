@@ -1,9 +1,9 @@
 window.APP_CONFIG = {
   firebase: {
-    apiKey: "AIzaSyDfjbD3hLhZmU3TpgRd6OBY5p8I6UPDeoQ",
-    authDomain: "dsdsds-d16da.firebaseapp.com",
-    projectId: "dsdsds-d16da",
-    appId: "1:257651658333:web:3d58add7c870a5c68a47b4"
+    apiKey: "AIzaSyB6z5nVd2N8R75cO97UwJtOBH5DkR5r_Ik",
+    authDomain: "thg-c5840.firebaseapp.com",
+    projectId: "thg-c5840",
+    appId: "1:16760411900:web:a69995d3195d9e1126a979"
   },
   adminEmail: "hzsabah4th@email.com"
 };
